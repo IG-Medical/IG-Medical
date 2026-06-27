@@ -1,0 +1,32 @@
+<?php
+return [
+    'create' => 'Create',
+    'action' => 'Action',
+    'created_at' => 'Created At',
+    'back' => 'Back',
+    'reset' => 'Reset',
+    'save' => 'Save',
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+    'caption_1' => 'Caption 1',
+    'caption_2' => 'Caption 2',
+
+    'categories' => 'Categories',
+    'category' => 'Category',
+    'name' => 'Name',
+    'page' => 'Page',
+    'updated_at' => 'Updated At',
+    'select_option' => 'Select Option',
+    'image' => 'Image',
+    'icon' => 'Icon',
+    'is_searchable' => 'Show this category in search box category list',
+    'is_enable' => 'Enable the category',
+    'parent_category' => 'Parent Category',
+    'parent_id' => 'Parent ID',
+    'create_root' => 'Root Category',
+    'create_sub' => 'Subcategory',
+    'collapse_all' => 'Collapse All',
+    'expand_all' => 'Expand All',
+    'is_featured' => 'Show this category in features section',
+
+];
