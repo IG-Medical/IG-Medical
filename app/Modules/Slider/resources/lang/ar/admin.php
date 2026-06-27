@@ -1,0 +1,25 @@
+<?php
+return [
+    'create' => 'إضافة',
+    'created_at' => 'أنشىء في',
+    'back' => 'عودة للخلف',
+    'reset' => 'إعادة تعيين',
+    'save' => 'حفظ',
+    'edit' => 'تعديل',
+
+    'top' => 'الأعلى',
+    'bottom' => 'الأسفل',
+    'sliders' => 'السلايدات',
+    'slider' => 'سلايدر',
+    'title' => 'العنوان',
+    'caption_1' => 'نص توضيحي 1',
+    'caption_2' => 'نص توضيحي 2',
+    'caption_3' => 'نص توضيحي 3',
+    'background' => 'صورة الخلفية',
+    'language' => 'اللغة',
+    'call_to_action_text_1' => 'نص الدعوة إلى إجراء 1',
+    'call_to_action_text_2' => 'نص الدعوة إلى إجراء 2',
+    'call_to_action_url_1' => 'رابط الدعوة إلى إجراء 1',
+    'call_to_action_url_2' => 'رابط الدعوة إلى إجراء 2',
+    'call_to_action_url_3' => 'رابط الدعوة إلى إجراء ',
+];

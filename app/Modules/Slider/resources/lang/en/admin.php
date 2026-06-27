@@ -1,0 +1,26 @@
+<?php
+return [
+    'create' => 'Create',
+    'action' => 'Action',
+    'created_at' => 'Created At',
+    'back' => 'Back',
+    'reset' => 'Reset',
+    'save' => 'Save',
+    'edit' => 'Edit',
+    'caption_1' => 'Caption 1',
+    'caption_2' => 'Caption 2',
+    'caption_3' => 'Caption 3',
+
+    'top' => 'Top',
+    'bottom' => 'Bottom',
+    'sliders' => 'Sliders',
+    'slider' => 'Slider',
+    'background' => 'Background Image',
+    'language' => 'language',
+    'call_to_action_text_1' => 'Call to Action Text 1',
+    'call_to_action_text_2' => 'Call to Action Text 2',
+    'call_to_action_url_1' => 'Call to Action URL 1',
+    'call_to_action_url_2' => 'Call to Action URL 2',
+    'call_to_action_url_3' => 'Call to Action URL ',
+    'type' => 'Type',
+];
