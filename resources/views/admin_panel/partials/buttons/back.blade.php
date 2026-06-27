@@ -1,0 +1,1 @@
+<div class="m-portlet__head-tools"><ul class="m-portlet__nav"><li class="m-portlet__nav-item"><a href="{{ route_admin($asRoute.'.index') }}" class="btn btn-secondary m-btn m-btn--icon"><span><i class="la la-arrow-left"></i><span>{{ trans('admin.back') }}</span></span></a></li></ul></div>
