@@ -1,0 +1,92 @@
+f0378c5489545e6293c33e3a4ae5bc47eafa757d f0378c5489545e6293c33e3a4ae5bc47eafa757d moazab87 <moazab87@gmail.com> 1768939392 +0100	checkout: moving from main to new-addons
+f0378c5489545e6293c33e3a4ae5bc47eafa757d bc6f94bee24096b9cea3356338fe7a5356665993 moazab87 <moazab87@gmail.com> 1768939428 +0100	pull origin main: Fast-forward
+bc6f94bee24096b9cea3356338fe7a5356665993 f0378c5489545e6293c33e3a4ae5bc47eafa757d moazab87 <moazab87@gmail.com> 1768939499 +0100	checkout: moving from new-addons to main
+f0378c5489545e6293c33e3a4ae5bc47eafa757d bc6f94bee24096b9cea3356338fe7a5356665993 moazab87 <moazab87@gmail.com> 1768939540 +0100	checkout: moving from main to new-addons
+bc6f94bee24096b9cea3356338fe7a5356665993 f0378c5489545e6293c33e3a4ae5bc47eafa757d moazab87 <moazab87@gmail.com> 1768939585 +0100	checkout: moving from new-addons to main
+f0378c5489545e6293c33e3a4ae5bc47eafa757d bc6f94bee24096b9cea3356338fe7a5356665993 moazab87 <moazab87@gmail.com> 1768940018 +0100	checkout: moving from main to new-addons
+bc6f94bee24096b9cea3356338fe7a5356665993 bc6f94bee24096b9cea3356338fe7a5356665993 moazab87 <moazab87@gmail.com> 1768947144 +0100	checkout: moving from new-addons to banner-addon
+bc6f94bee24096b9cea3356338fe7a5356665993 668ee646348462403b9661fa053d454724f1d215 moazab87 <moazab87@gmail.com> 1768947172 +0100	pull origin main: Fast-forward
+668ee646348462403b9661fa053d454724f1d215 bc6f94bee24096b9cea3356338fe7a5356665993 moazab87 <moazab87@gmail.com> 1768947512 +0100	checkout: moving from banner-addon to new-addons
+bc6f94bee24096b9cea3356338fe7a5356665993 668ee646348462403b9661fa053d454724f1d215 moazab87 <moazab87@gmail.com> 1768947975 +0100	checkout: moving from new-addons to banner-addon
+668ee646348462403b9661fa053d454724f1d215 0680d3e789e6a5b74c9755d733990837db6524e6 moazab87 <moazab87@gmail.com> 1768947990 +0100	pull origin main: Fast-forward
+0680d3e789e6a5b74c9755d733990837db6524e6 e9b72414f56c98d660691a29ac7bb4b14a3ba091 moazab87 <moazab87@gmail.com> 1768948415 +0100	pull origin main: Fast-forward
+e9b72414f56c98d660691a29ac7bb4b14a3ba091 bc6f94bee24096b9cea3356338fe7a5356665993 moazab87 <moazab87@gmail.com> 1768948506 +0100	checkout: moving from banner-addon to new-addons
+bc6f94bee24096b9cea3356338fe7a5356665993 e9b72414f56c98d660691a29ac7bb4b14a3ba091 moazab87 <moazab87@gmail.com> 1769028887 +0100	checkout: moving from new-addons to banner-addon
+e9b72414f56c98d660691a29ac7bb4b14a3ba091 ed888ef3b489979f5305559722a58a0a65fbf1a1 moazab87 <moazab87@gmail.com> 1769028909 +0100	pull origin main: Fast-forward
+ed888ef3b489979f5305559722a58a0a65fbf1a1 bc159dd0ec81bfc59059f48fa62ed08c7bc5a4a5 moazab87 <moazab87@gmail.com> 1769029231 +0100	pull origin main: Fast-forward
+bc159dd0ec81bfc59059f48fa62ed08c7bc5a4a5 196025eee8e77450237f3618e385c7190dc9205e moazab87 <moazab87@gmail.com> 1769029721 +0100	pull origin main: Fast-forward
+196025eee8e77450237f3618e385c7190dc9205e 4385d85c3556fce086ff8d864773c099d5252f22 moazab87 <moazab87@gmail.com> 1769029978 +0100	pull origin main: Fast-forward
+4385d85c3556fce086ff8d864773c099d5252f22 71e507127d17b8bc9e2a9799158a3b370fe60184 moazab87 <moazab87@gmail.com> 1769030590 +0100	pull origin main: Fast-forward
+71e507127d17b8bc9e2a9799158a3b370fe60184 dfbb8ed02f929fd5bd6294504191600eaab25bb6 moazab87 <moazab87@gmail.com> 1769071904 +0100	commit: remove wp from server
+dfbb8ed02f929fd5bd6294504191600eaab25bb6 bc6f94bee24096b9cea3356338fe7a5356665993 moazab87 <moazab87@gmail.com> 1769071981 +0100	checkout: moving from banner-addon to new-addons
+bc6f94bee24096b9cea3356338fe7a5356665993 74d0a97d0ccff967d3205fdf8ec6ccdf159bdda6 moazab87 <moazab87@gmail.com> 1769072018 +0100	pull origin main: Fast-forward
+74d0a97d0ccff967d3205fdf8ec6ccdf159bdda6 c827fae8fc8e5ff942a9504a232ca2555eafe307 moazab87 <moazab87@gmail.com> 1769073137 +0100	pull origin main: Fast-forward
+c827fae8fc8e5ff942a9504a232ca2555eafe307 7f26921e5e989830a9338249b42b9574f178d47c moazab87 <moazab87@gmail.com> 1769073753 +0100	pull origin main: Fast-forward
+7f26921e5e989830a9338249b42b9574f178d47c 5d309eba0bf680f8366e69a72ffcf97b5fc036df moazab87 <moazab87@gmail.com> 1769074706 +0100	pull origin main: Fast-forward
+5d309eba0bf680f8366e69a72ffcf97b5fc036df 1378560f76af1079f15d0092bdb29bb35b93091b moazab87 <moazab87@gmail.com> 1769074860 +0100	pull origin main: Fast-forward
+1378560f76af1079f15d0092bdb29bb35b93091b cb4b712127443eed1be3884cd6cd73d747a4934c moazab87 <moazab87@gmail.com> 1769075229 +0100	pull origin main: Fast-forward
+cb4b712127443eed1be3884cd6cd73d747a4934c 786d26bae318038bb77f093507b20a862d373f27 moazab87 <moazab87@gmail.com> 1769075570 +0100	pull origin main: Fast-forward
+786d26bae318038bb77f093507b20a862d373f27 2072a29e917ea1ce0e82146e90a8a6df6524a40d moazab87 <moazab87@gmail.com> 1769075807 +0100	pull origin main: Fast-forward
+2072a29e917ea1ce0e82146e90a8a6df6524a40d 9ff99087d998c11cc5f2fb81466c60f3a012b09e moazab87 <moazab87@gmail.com> 1769076007 +0100	pull origin main: Fast-forward
+9ff99087d998c11cc5f2fb81466c60f3a012b09e ad08921057360d401ce33a151a4ad77c80d1d44b moazab87 <moazab87@gmail.com> 1769076751 +0100	pull origin main: Fast-forward
+ad08921057360d401ce33a151a4ad77c80d1d44b ba199019146037b8b5b87f025a3b7d77dad49a94 moazab87 <moazab87@gmail.com> 1769085176 +0100	pull origin main: Fast-forward
+ba199019146037b8b5b87f025a3b7d77dad49a94 0bfaa0322999565c85603a12b9395720d3f30a6c moazab87 <moazab87@gmail.com> 1769085822 +0100	pull origin main: Fast-forward
+0bfaa0322999565c85603a12b9395720d3f30a6c 6f070fb84668cd2a4896cec1feec39716d5158d6 moazab87 <moazab87@gmail.com> 1769086670 +0100	pull origin main: Fast-forward
+6f070fb84668cd2a4896cec1feec39716d5158d6 2fa6438a3102985abf010e5d3152c368d122a3e1 moazab87 <moazab87@gmail.com> 1769086978 +0100	pull origin main: Fast-forward
+2fa6438a3102985abf010e5d3152c368d122a3e1 91636f5c23ceeb6eb299b1cdee114ffc19cb0ff5 moazab87 <moazab87@gmail.com> 1769088047 +0100	pull origin main: Fast-forward
+91636f5c23ceeb6eb299b1cdee114ffc19cb0ff5 3740ada975553b5b0d525968c63c882e8794fd61 moazab87 <moazab87@gmail.com> 1769088429 +0100	pull origin main: Fast-forward
+3740ada975553b5b0d525968c63c882e8794fd61 879390f4dcd24ef5c03e858fc6ae1227dc33c39e moazab87 <moazab87@gmail.com> 1769088739 +0100	pull origin main: Fast-forward
+879390f4dcd24ef5c03e858fc6ae1227dc33c39e 86976c1296d3b59a34196848e1dac6416ca0fd9a moazab87 <moazab87@gmail.com> 1769088960 +0100	pull origin main: Fast-forward
+86976c1296d3b59a34196848e1dac6416ca0fd9a a84e660bd3a8477185e7b0ffe7514fedc7d43ba2 moazab87 <moazab87@gmail.com> 1769092038 +0100	pull origin main: Fast-forward
+a84e660bd3a8477185e7b0ffe7514fedc7d43ba2 34052d447ab22b77797ad5847a8ec9e2e20ba2c2 moazab87 <moazab87@gmail.com> 1769093145 +0100	pull origin main: Fast-forward
+34052d447ab22b77797ad5847a8ec9e2e20ba2c2 5577402f671a7199c9bfbf5b6d8c952746633671 moazab87 <moazab87@gmail.com> 1769093434 +0100	pull origin main: Fast-forward
+5577402f671a7199c9bfbf5b6d8c952746633671 8baab4018e4f4ee24adc0bd963454131abfaffcd moazab87 <moazab87@gmail.com> 1769093814 +0100	pull origin main: Fast-forward
+8baab4018e4f4ee24adc0bd963454131abfaffcd 92f02e74759122383273c1afad2924281e6f3310 moazab87 <moazab87@gmail.com> 1769093899 +0100	pull origin main: Fast-forward
+92f02e74759122383273c1afad2924281e6f3310 ba9cdbdaac010e11e80961cf410e012d7e215d0d moazab87 <moazab87@gmail.com> 1769346186 +0100	pull origin main: Fast-forward
+ba9cdbdaac010e11e80961cf410e012d7e215d0d 3adb60adfc2ed2cd8d32b292881fcc40762772f6 moazab87 <moazab87@gmail.com> 1769351195 +0100	pull origin main: Fast-forward
+3adb60adfc2ed2cd8d32b292881fcc40762772f6 7f95099f48aab4955b20b597cd9e5d709c275aa6 moazab87 <moazab87@gmail.com> 1771894237 +0100	pull origin main: Fast-forward
+7f95099f48aab4955b20b597cd9e5d709c275aa6 01d5f422997457e376abbf3887818b0f1448a432 moazab87 <moazab87@gmail.com> 1771895353 +0100	pull origin main: Fast-forward
+01d5f422997457e376abbf3887818b0f1448a432 e719b64c58cb05f6e72e7ed5ba22c8502023326f moazab87 <moazab87@gmail.com> 1771921315 +0100	pull origin main: Fast-forward
+e719b64c58cb05f6e72e7ed5ba22c8502023326f e719b64c58cb05f6e72e7ed5ba22c8502023326f moazab87 <moazab87@gmail.com> 1773696881 +0100	checkout: moving from new-addons to remove-wp
+e719b64c58cb05f6e72e7ed5ba22c8502023326f 80390ce98c47821fa9ac22ff7a5e17b3d8765aa7 moazab87 <moazab87@gmail.com> 1773696932 +0100	commit: remove wp files
+80390ce98c47821fa9ac22ff7a5e17b3d8765aa7 f0378c5489545e6293c33e3a4ae5bc47eafa757d moazab87 <moazab87@gmail.com> 1773696991 +0100	checkout: moving from remove-wp to main
+f0378c5489545e6293c33e3a4ae5bc47eafa757d 79c4df822898bc399038e5acc86be9a4c8b17104 moazab87 <moazab87@gmail.com> 1773697339 +0100	pull origin main: Fast-forward
+79c4df822898bc399038e5acc86be9a4c8b17104 287cea326a27b054a3ba4c31c53f2c2415bc0ffa moazab87 <moazab87@gmail.com> 1773697404 +0100	pull origin main: Fast-forward
+287cea326a27b054a3ba4c31c53f2c2415bc0ffa 7a2acb01a2f5d24adb74c9601c5269e00fdb500f moazab87 <moazab87@gmail.com> 1773698603 +0100	pull origin main: Fast-forward
+7a2acb01a2f5d24adb74c9601c5269e00fdb500f 30bd9f68b55a13ef7831053ffbc46d7e12810b2f moazab87 <moazab87@gmail.com> 1773699264 +0100	pull origin main: Fast-forward
+30bd9f68b55a13ef7831053ffbc46d7e12810b2f e3f82be314003393eb9bb1ac785f133c585dd81d moazab87 <moazab87@gmail.com> 1773699812 +0100	pull origin main: Fast-forward
+e3f82be314003393eb9bb1ac785f133c585dd81d 36de11eb33783204985a1b3a0602daca1d36578f moazab87 <moazab87@gmail.com> 1773701729 +0100	pull origin main: Fast-forward
+36de11eb33783204985a1b3a0602daca1d36578f db673e8a8fe941219b8f32803a2b61ada7fce53e moazab87 <moazab87@gmail.com> 1773702912 +0100	pull origin main: Fast-forward
+db673e8a8fe941219b8f32803a2b61ada7fce53e e8d7001fd1d978a2297887c0754985b4fc902db5 moazab87 <moazab87@gmail.com> 1773703574 +0100	pull origin main: Fast-forward
+e8d7001fd1d978a2297887c0754985b4fc902db5 482ec8d5b91759b18fc17f6f4c0be5f8012f54e5 moazab87 <moazab87@gmail.com> 1773709669 +0100	pull origin main: Fast-forward
+482ec8d5b91759b18fc17f6f4c0be5f8012f54e5 b4211c4034bc7f8dc4ff8177f9905e22908b1c53 moazab87 <moazab87@gmail.com> 1773710481 +0100	pull origin main: Fast-forward
+b4211c4034bc7f8dc4ff8177f9905e22908b1c53 e12141a84e4ecc323df9f6aac1300b9e2e51bc3c moazab87 <moazab87@gmail.com> 1773830555 +0100	pull origin main: Fast-forward
+e12141a84e4ecc323df9f6aac1300b9e2e51bc3c f8c87df337cfa0bfc1b150f6013fb60fdafd1bf9 moazab87 <moazab87@gmail.com> 1773831258 +0100	pull origin main: Fast-forward
+f8c87df337cfa0bfc1b150f6013fb60fdafd1bf9 c2c9a0028444b7f219449ec0c7f31c651754f69d moazab87 <moazab87@gmail.com> 1773832300 +0100	pull origin main: Fast-forward
+c2c9a0028444b7f219449ec0c7f31c651754f69d 2e7bd1f2af23116978c5576f2207aeef93ed3306 moazab87 <moazab87@gmail.com> 1773832542 +0100	pull origin main: Fast-forward
+2e7bd1f2af23116978c5576f2207aeef93ed3306 3ac0a9abd9b8c7c36d59fb07dbbc797ce6bd8e79 moazab87 <moazab87@gmail.com> 1773832858 +0100	pull origin main: Fast-forward
+3ac0a9abd9b8c7c36d59fb07dbbc797ce6bd8e79 9e2c8b1f7cfdb32ce664b9fadaf4b9b48b50a682 moazab87 <moazab87@gmail.com> 1773833108 +0100	pull origin main: Fast-forward
+9e2c8b1f7cfdb32ce664b9fadaf4b9b48b50a682 6acb6b4ac725f7331099fe6d809fe1fa2aca0bc0 moazab87 <moazab87@gmail.com> 1773837458 +0100	pull origin main: Fast-forward
+6acb6b4ac725f7331099fe6d809fe1fa2aca0bc0 f7d5b18602e4747e7c1ee902cef0f988fbd8dc3d moazab87 <moazab87@gmail.com> 1773838445 +0100	pull origin main: Fast-forward
+f7d5b18602e4747e7c1ee902cef0f988fbd8dc3d d18fe9e6757c01e5434925723ef56535f8fc0523 moazab87 <moazab87@gmail.com> 1773838924 +0100	pull origin main: Fast-forward
+d18fe9e6757c01e5434925723ef56535f8fc0523 536d33af72aba0952ddd299fdb869ae561fadf59 moazab87 <moazab87@gmail.com> 1773839012 +0100	pull origin main: Fast-forward
+536d33af72aba0952ddd299fdb869ae561fadf59 ece37b4c7b59739863937cd0346cddef2054301f moazab87 <moazab87@gmail.com> 1773839808 +0100	pull origin main: Fast-forward
+ece37b4c7b59739863937cd0346cddef2054301f 44f346a726b48538fa45e17d9934511b458535da moazab87 <moazab87@gmail.com> 1773840679 +0100	pull origin main: Fast-forward
+44f346a726b48538fa45e17d9934511b458535da 484f99bd66dccd4d8ed9bdd2af9cd395ed48c073 moazab87 <moazab87@gmail.com> 1773841106 +0100	pull origin main: Fast-forward
+484f99bd66dccd4d8ed9bdd2af9cd395ed48c073 eebb950c1cfd10d06ec9a98b111f4edf8a981d44 moazab87 <moazab87@gmail.com> 1773841258 +0100	pull origin main: Fast-forward
+eebb950c1cfd10d06ec9a98b111f4edf8a981d44 0e57b814ea743aaca7d616a2e4043e003e61a449 moazab87 <moazab87@gmail.com> 1773841790 +0100	pull origin main: Fast-forward
+0e57b814ea743aaca7d616a2e4043e003e61a449 14c12794df6009086aa4d03469cf75597d1065cc moazab87 <moazab87@gmail.com> 1773842070 +0100	pull origin main: Fast-forward
+14c12794df6009086aa4d03469cf75597d1065cc 75602c83d3bf2e48f1f47a16966ce62d46a9ef33 moazab87 <moazab87@gmail.com> 1773842308 +0100	pull origin main: Fast-forward
+75602c83d3bf2e48f1f47a16966ce62d46a9ef33 0b3797fd92b7aa160bbd0e832bbe0383e8d21533 moazab87 <moazab87@gmail.com> 1776202518 +0200	pull origin main: Fast-forward
+0b3797fd92b7aa160bbd0e832bbe0383e8d21533 6a797c263dd0e47450d9fbc9e42a6ecf57a57f46 moazab87 <moazab87@gmail.com> 1776202744 +0200	pull origin main: Fast-forward
+6a797c263dd0e47450d9fbc9e42a6ecf57a57f46 8fff42e210062cc81b060450dfbfdc340d064056 moazab87 <moazab87@gmail.com> 1776204182 +0200	pull origin main: Fast-forward
+8fff42e210062cc81b060450dfbfdc340d064056 fee5f620e85ff560702d6c5b4988ca87c52eb164 moazab87 <moazab87@gmail.com> 1776204456 +0200	pull origin main: Fast-forward
+fee5f620e85ff560702d6c5b4988ca87c52eb164 219657ecd93af47292fc1c49c6fd07a0e8e3604e moazab87 <moazab87@gmail.com> 1776204853 +0200	pull origin main: Fast-forward
+219657ecd93af47292fc1c49c6fd07a0e8e3604e 9aa3575b192363ec830467ea9ef33d6f67a3855f moazab87 <moazab87@gmail.com> 1777921837 +0200	pull origin main: Fast-forward
+9aa3575b192363ec830467ea9ef33d6f67a3855f e8d59bb0e5555598d9b85be887072ed14a6664c3 moazab87 <moazab87@gmail.com> 1778017604 +0200	pull origin main: Fast-forward
+e8d59bb0e5555598d9b85be887072ed14a6664c3 09ec1c17ed14adf4323515152a2c44ef2c9d3ced moazab87 <moazab87@gmail.com> 1778017949 +0200	pull origin main: Fast-forward
+09ec1c17ed14adf4323515152a2c44ef2c9d3ced 6158a00760692a0027fa9ec1f3d6453f6a55b251 moazab87 <moazab87@gmail.com> 1778191971 +0200	pull origin main: Fast-forward
+6158a00760692a0027fa9ec1f3d6453f6a55b251 79092ac8a6801517f24a0c78b36e31f4acfff16c moazab87 <moazab87@gmail.com> 1778192333 +0200	pull origin main: Fast-forward
+79092ac8a6801517f24a0c78b36e31f4acfff16c 8391cbcea7b8e3aba6a21654dbdbae922dc67d6f moazab87 <moazab87@gmail.com> 1778192791 +0200	pull origin main: Fast-forward
+8391cbcea7b8e3aba6a21654dbdbae922dc67d6f fcf2850659f838f372f340a797f283f624ff89de moazab87 <moazab87@gmail.com> 1778193078 +0200	pull origin main: Fast-forward
+fcf2850659f838f372f340a797f283f624ff89de add5bc02608e67f62a9081f1e3911a3d11a86313 moazab87 <moazab87@gmail.com> 1778193450 +0200	pull origin main: Fast-forward
