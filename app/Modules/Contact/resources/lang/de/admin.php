@@ -1,0 +1,25 @@
+<?php
+return [
+    'create' => 'Create',
+    'action' => 'Action',
+    'created_at' => 'Created At',
+    'back' => 'Back',
+    'reset' => 'Reset',
+    'save' => 'Save',
+    'edit' => 'Edit',
+    'caption_1' => 'Caption 1',
+    'caption_2' => 'Caption 2',
+
+    'id' => 'ID',
+    'full_name' => 'Full Name',
+    'email' => 'Email',
+    'subject' => 'Subject',
+    'message' => 'Message',
+    'contact_us' => 'Contact US',
+    'open' => 'Open',
+    'archived' => 'Archived',
+    'company_name' => 'Company Name',
+    'country' => 'Country',
+    'phone' => 'Phone',
+    'favorite_product' => 'Favorite Product',
+];
