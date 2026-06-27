@@ -1,0 +1,37 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "@vue/compiler-sfc": "^3.2.6",
+        "axios": "^0.21",
+        "laravel-mix": "^6.0.49",
+        "vue-loader": "^15.9.8",
+        "vue-template-compiler": "^2.6.14",
+        "webpack": "5.75.0"
+    },
+    "dependencies": {
+        "element-ui": "^2.15.6",
+        "laravel-mix-merge-manifest": "^2.0.0",
+        "moment": "^2.29.1",
+        "vue": "^2.6.14",
+        "vue-i18n": "^8.25.0",
+        "vue-image-crop-upload": "^3.0.3",
+        "vue-jstree": "^2.1.6",
+        "vue-multiselect": "^2.1.6",
+        "vue-recaptcha": "^1.3.0",
+        "vue-table-component": "^1.9.2",
+        "vue-the-mask": "^0.11.1",
+        "vue-tinymce-editor": "^1.6.2",
+        "vue-toast-notification": "^0.5.4",
+        "vuejs-paginate": "^2.1.0",
+        "vuex": "^3.6.2"
+    }
+}
