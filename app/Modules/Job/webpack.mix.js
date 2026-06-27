@@ -1,0 +1,11 @@
+const mix = require('laravel-mix');
+
+require('laravel-mix-merge-manifest');
+
+mix.mergeManifest();
+
+//mix.setPublicPath('../../../public').mergeManifest();
+
+
+mix.js(__dirname + '/resources/js/app.js', 'js/app/job.js').
+js(__dirname + '/resources/js/admin.js', 'js/admin/job.js');

@@ -1,0 +1,11 @@
+{
+    "email_address": "E-Mail Adresse",
+    "register": "Register",
+    "ihr_name": "Ihr Name",
+    "Are_you_sure_to_delete_the_job": "Möchten Sie den Job wirklich löschen {name} ? ",
+    "choose_a_file": "Wählen Sie eine Datei ",
+    "art_you_delete": "Möchten Sie den {name} wirklich löschen?",
+    "delete_job": "einen Auftrag löschen",
+    "stay_updated_with_our_newsletter": "Bleiben Sie mit unserem Newsletter auf dem laufenden",
+    "i_have_read_and_noted_the_data_protection_declaration": "Ich habe die Datenschutzerklärung gelesen und zur Kenntnis genommen."
+}
