@@ -1,0 +1,51 @@
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Schema;
+use User\Models\Role;
+
+class RolesTableSeeder extends Seeder
+{
+    public function run()
+    {
+        $this->deleteData();
+
+        $this->insert();
+    }
+
+    private function insert()
+    {
+        foreach ($this->data() as $role)
+            Role::create($role);
+    }
+
+    private function deleteData()
+    {
+        Schema::table('roles', function () {
+            DB::statement('
+                SET foreign_key_checks = 0;
+            ');
+        });
+
+
+        DB::table('roles')->truncate();
+    }
+
+    private function data(): array
+    {
+        return [
+            [
+                'id' => Role::ADMINISTRATION,
+//                'name' => [
+//                    'ar' => 'سوبر أدمن',
+//                    'en' => 'Administration'
+//                ],
+                'name' => 'Administration',
+                'guard_name' => config('auth.defaults.guard')
+            ],
+        ];
+    }
+}
