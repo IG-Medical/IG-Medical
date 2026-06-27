@@ -1,0 +1,2 @@
+<button type="button" @click="save" :disabled="form.disabledButton" class="btn btn-primary"><?php echo e(trans_module_page('admin.save')); ?></button>
+<?php /**PATH C:\Users\HP\Desktop\IG MEDICAL.COM\my_new_website\app\Modules\Product\resources\views/admin_panel/partials/buttons/save.blade.php ENDPATH**/ ?>

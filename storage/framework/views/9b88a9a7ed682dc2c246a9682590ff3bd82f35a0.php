@@ -1,0 +1,2 @@
+<button type="button" @click="reset" class="btn btn-secondary"><?php echo e(trans_module_page('admin.reset')); ?></button>
+<?php /**PATH C:\Users\HP\Desktop\IG MEDICAL.COM\my_new_website\app\Modules\Product\resources\views/admin_panel/partials/buttons/reset.blade.php ENDPATH**/ ?>

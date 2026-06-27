@@ -1,0 +1,2 @@
+<button v-if="category" type="button" @click="deleteItem" class="btn btn-danger"><?php echo e(trans_module_category('admin.delete')); ?></button>
+<?php /**PATH C:\Users\HP\Desktop\IG MEDICAL.COM\my_new_website\app\Modules\Category\resources\views/admin_panel/partials/buttons/delete.blade.php ENDPATH**/ ?>
