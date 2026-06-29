@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'droid-naskh';
+    src: url('https://www.fontstatic.com/fonts/droid-naskh/DroidNaskh-Regular.eot?#iefix');
+    src: local('Ø¯Ø±ÙˆÙŠØ¯ Ù†Ø³Ø®'), local('droid-naskh'), url('https://www.fontstatic.com/fonts/droid-naskh/DroidNaskh-Regular.woff') format('woff');
+}
+
+body, h1, h2, h3, h4, h4, h6, span, button, a {
+    font-family: 'droid-naskh', 'Poppins' !important;
+}
+
+.el-dialog__title{
+    font-weight: bold !important;
+    font-size: 20px !important;
+}
+.el-dialog__content_lables{
+    font-weight: bold !important;
+    font-size: 17px !important;
+}
+[v-cloak] > * {
+    display: none;
+}
+
+.loading {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    background: rgba(0, 0, 0, 0.08);
+    top: 0;
+}
+
+.loading i {
+    display: block !important;
+    margin: 22% auto;
+    font-size: 60px;
+    color: #5e6ee4;
+}
+
+.error-block {
+    margin-top: 0.2rem;
+    margin-right: 1.6rem;
+    font-size: .95rem;
+    color: red;
+}
+
+.form-control-feedback {
+    margin-top: 0.2rem;
+    /*margin-right: 1.6rem;*/
+    font-size: 0.90rem !important;
+    color: red;
+}
+
+.el-dialog__header {
+    border-bottom: 1px solid #e9ecef;
+    padding: 25px !important;
+}
+
+/*.el-dialog__body {
+    padding: 0 !important;
+}*/
